@@ -1,6 +1,4 @@
-# 🚀 Backend Engineer | Generative AI Developer
-
----
+# 🚀 AI Backend Engineer
 
 ## 🏷️ Languages
 <p>
@@ -10,8 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </p>
-
----
 
 ## ⚡ Frameworks
 <p>
@@ -24,8 +20,6 @@
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
 </p>
 
----
-
 ## 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
@@ -36,16 +30,12 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" />
 </p>
 
----
-
 ## 🔎 Search Engines
 <p>
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005C9D?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meilisearch-FF7B54?logo=meilisearch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Algolia-5468FF?logo=algolia&logoColor=white&style=for-the-badge" />
 </p>
-
----
 
 ## 🤖 AI & GenAI
 <p>
@@ -57,7 +47,4 @@
   <img src="https://img.shields.io/badge/RAG-5C5C5C?logoColor=white&style=for-the-badge" />
 </p>
 
----
-
-## 💡 Bio
 A passionate engineer to the top IT solution! 🚀
